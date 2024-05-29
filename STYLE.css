@@ -1,0 +1,16 @@
+
+ul{
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'Roboto' sans-serif;
+    font-size: 75px ;
+    font-weight: 500px;
+    border-radius: 25px;
+    border: 10px solid salmon ;
+    background-color: rgba(30, 255, 109, 0.274);
+    color: rgb(5, 3, 36);
+    margin: 15px 15px;
+}
+body{
+    background-color: rgb(95, 160, 120);
+}
